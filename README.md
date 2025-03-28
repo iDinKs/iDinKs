@@ -1,11 +1,3 @@
-# 👩🏻‍💻 Vinicius Zanoni Martin
-
-**`A procura de estágio em TI`**
-
-Me chamo Vinicius José Zanoni Martin, tenho 22 anos e sou natural de Curitiba/Paraná. Atualmente, estou cursando Gestão de Tecnologia da Informação na FACSUL(Faculdade de Campina Grande do Sul). Sou apaixonado por tecnologia e gosto muito de aprender novas funções da área.
-
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
