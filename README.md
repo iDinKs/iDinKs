@@ -1,21 +1,37 @@
-# Olá, eu sou Vinicius 👋
+<div align="center">
+  <h1>Vinicius José Zanoni Martin</h1>
+  <p><strong>Desenvolvedor Backend Júnior em formação</strong></p>
+  <p>Estudando lógica de programação e JavaScript para construir minha trajetória em backend.</p>
+  <p><a href="https://github.com/iDinKs?tab=repositories">Repositórios</a> · <a href="https://github.com/iDinKs">Perfil GitHub</a></p>
+</div>
 
-Estou construindo minha base em programação com foco em **desenvolvimento backend**. No momento, estudo lógica de programação e JavaScript e quero evoluir por meio de projetos pessoais bem documentados.
+---
 
-## Minha jornada
+## Sobre mim
 
-- **Estudando agora:** lógica de programação e JavaScript
-- **Próximas etapas:** Node.js, TypeScript e NestJS
-- **Objetivo:** buscar uma oportunidade como Desenvolvedor Backend Júnior
+Estou desenvolvendo meus fundamentos em programação e praticando JavaScript. Quero avançar gradualmente para aplicações backend, compartilhando projetos pessoais com código organizado e documentação que explique o que aprendi.
 
-Quero registrar aqui meu progresso com código claro, documentação útil e projetos que mostrem o que aprendi em cada etapa.
+## Tecnologias
 
-## Projetos
+### Backend — trilha de estudos
 
-Ainda não tenho projetos públicos autorais para destacar. Estou organizando meus estudos para começar a publicá-los à medida que evoluírem.
+![JavaScript — estudando e praticando](https://img.shields.io/badge/JavaScript-Estudando-292929?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js — próximo passo](https://img.shields.io/badge/Node.js-Pr%C3%B3ximo%20passo-292929?style=flat-square&logo=nodedotjs&logoColor=339933)
+![TypeScript — quero aprofundar](https://img.shields.io/badge/TypeScript-Quero%20aprofundar-292929?style=flat-square&logo=typescript&logoColor=3178C6)
+![NestJS — quero aprofundar](https://img.shields.io/badge/NestJS-Quero%20aprofundar-292929?style=flat-square&logo=nestjs&logoColor=E0234E)
 
-[Ver meus repositórios](https://github.com/iDinKs?tab=repositories)
+### Web e banco de dados — contato prévio
 
-## Sobre este perfil
+![HTML5](https://img.shields.io/badge/HTML5-292929?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-292929?style=flat-square&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-292929?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![PHP](https://img.shields.io/badge/PHP-292929?style=flat-square&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-292929?style=flat-square&logo=mysql&logoColor=4479A1)
 
-Este perfil acompanha minha evolução: vou atualizar as tecnologias e os projetos conforme ganhar prática e tiver trabalho concreto para apresentar.
+## Projetos em destaque
+
+Ainda não há projetos autorais públicos para apresentar. Vou incluir aqui projetos quando estiverem publicados e puder explicar seus objetivos, implementação e aprendizados.
+
+## Contato
+
+[![GitHub: @iDinKs](https://img.shields.io/badge/GitHub-iDinKs-292929?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/iDinKs)
