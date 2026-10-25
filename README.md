@@ -2,7 +2,7 @@
   <h1>Vinicius José Zanoni Martin</h1>
   <p><strong>Desenvolvedor Backend Júnior em formação</strong></p>
   <p>Estudando lógica de programação e JavaScript para construir minha trajetória em backend.</p>
-  <p><a href="https://github.com/iDinKs?tab=repositories">Repositórios</a> · <a href="https://github.com/iDinKs">Perfil GitHub</a></p>
+  <p><a href="https://github.com/iDinKs?tab=repositories">Repositórios</a> · <a href="[https://github.com/iDinKs](https://www.linkedin.com/in/vinicius-josé-zanoni-martin-012171335?utm_source=share_via&utm_content=profile&utm_medium=member_android)">Perfil Linkedin</a></p>
 </div>
 
 ---
